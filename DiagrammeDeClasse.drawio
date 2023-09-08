@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-09-08T16:35:50.374Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="6txY87o5u34WnXF7Ef-Y" version="21.7.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-09-08T16:36:51.700Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="nnMM1K8oPVJgXrylI4Rj" version="21.7.2" type="github">
   <diagram name="Page-1" id="p06Nskeuj_fNzVhQiGaa">
     <mxGraphModel dx="1886" dy="382" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -14,7 +14,7 @@
           <mxGeometry x="520" y="200" width="200" height="170" as="geometry" />
         </mxCell>
         <mxCell id="KpmXECyhZIi6u8O-qsFD-5" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;Porte&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;&lt;br&gt;&lt;/p&gt;-IDPorte :int&lt;br&gt;-GropePorte:String&lt;br&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;&amp;nbsp;&lt;/p&gt;+DefinirGropePorte(): void&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;whiteSpace=wrap;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" vertex="1" parent="1">
-          <mxGeometry x="250" y="970" width="165" height="130" as="geometry" />
+          <mxGeometry x="260" y="960" width="165" height="130" as="geometry" />
         </mxCell>
         <mxCell id="KpmXECyhZIi6u8O-qsFD-6" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;GroupePorte&lt;/b&gt;&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;&lt;br&gt;&lt;/p&gt;-IDGroupePorte:int&lt;br&gt;-ListeDePorteMembre:String&lt;br&gt;&lt;br&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;&amp;nbsp;&lt;/p&gt;+AjouterPorteDuGroupe(): void&lt;br&gt;+RetirerPorteDuGroupe():void&lt;br&gt;+DefinirDroitDaccesGroupePorte(): void&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;whiteSpace=wrap;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="250" y="680" width="220" height="170" as="geometry" />
